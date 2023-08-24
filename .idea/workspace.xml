@@ -640,7 +640,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php.debug",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -675,7 +676,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692878847621</updated>
       <workItem from="1692878848610" duration="1007000" />
-      <workItem from="1692891189363" duration="2600000" />
+      <workItem from="1692891189363" duration="3030000" />
     </task>
     <servers />
   </component>
