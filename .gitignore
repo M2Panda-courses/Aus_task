@@ -1,1 +1,3 @@
-src/
+src/vendor
+!src/vendor/magento/module-checkout/view/frontend/templates/messages/addCartSuccessMessage.phtml
+!src/vendor/magento/module-inventory-sales/Model/IsProductSalableForRequestedQtyCondition/IsCorrectQtyCondition.php
